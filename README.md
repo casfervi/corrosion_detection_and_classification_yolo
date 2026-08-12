@@ -5,6 +5,9 @@ video and classifies each detected region by severity (**fair**, **poor**,
 **severe**), using a YOLO11 segmentation model fine-tuned on the Virginia
 Tech Corrosion Condition State dataset.
 
+The output of script is a file (image or video) with corrosion classification.
+In case of video, it also outputs a report with the seconds and occurences. 
+
 ## Dataset
 
 This project uses the **Corrosion Condition State Semantic Segmentation

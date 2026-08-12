@@ -16,6 +16,7 @@ numpy==2.5.2
 nvidia-ml-py==13.610.43
 opencv-python==5.0.0.93
 packaging==26.3
+pandas==3.0.5
 pillow==12.3.0
 polars==1.43.2
 polars-runtime-32==1.43.2
@@ -30,6 +31,7 @@ sympy==1.14.0
 torch==2.13.0
 torchvision==0.28.0
 typing_extensions==4.16.0
+tzdata==2026.3
 ultralytics==8.4.117
 ultralytics-thop==2.1.6
 urllib3==2.7.0
