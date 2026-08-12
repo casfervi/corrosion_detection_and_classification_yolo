@@ -1,0 +1,9 @@
+path: dataset
+
+train: train/images
+val: test/images
+
+names:
+  0: fair
+  1: poor
+  2: severe
