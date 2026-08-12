@@ -58,7 +58,7 @@ areas without visible corrosion are treated as background.
 ```
 python -m venv local_train
 local_train\Scripts\activate
-pip install ultralytics opencv-python numpy
+pip install -r requirements.txt
 ```
 
 Download the dataset from the Figshare link above and place the images and
